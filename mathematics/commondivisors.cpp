@@ -4,6 +4,8 @@ using namespace std;
 const int MAX_VAL = 1e6 + 1;
 int freq[MAX_VAL];
 
+
+
 int main() {
     int n, x;
     cin >> n;
